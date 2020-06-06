@@ -1,2 +1,2 @@
-# mathematical-modeling
-Variety of interesting mathematical models in Python
+# Mathematical models
+Variety of interesting mathematical models in Python.
